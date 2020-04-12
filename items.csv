@@ -1,5 +1,7 @@
-10 GalaxyS20 60000
-17 IPhoneXR 80000
-32 HDMIKabel 200
-44 EthernetKabel 200
-73 LANConnector 5
+10,GalaxyS,200000
+17,IPhoneXR,80000
+32,HDMIKabel,200
+44,EthernetKabel,250
+73,LANConnector,5
+45,P20Lite,13000
+46,Mate20Lite,20000	

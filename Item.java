@@ -62,3 +62,20 @@ class Item {
 		} else return 0;
 	}
 }
+
+class Receipt{
+	ArrayList<Item> listaArtikli;
+	
+	public Receipt(){
+		this.listaArtikli = new ArrayList<Item>();
+	}
+
+	public addItem(Item item){
+		this.listaArtikli.add(item);
+	}
+
+	public deleteItem(Item item){
+		this.listaArtikli.delete(item);
+	}
+	
+}	
